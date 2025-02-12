@@ -28,9 +28,7 @@ Directory structure:
 - Preprocessing steps like lemmatization and scaling were essential for handling text data.
 
 ### App Gallery: 
-![Screenshot 2024-12-22 162608](https://github.com/user-attachments/assets/51be92ba-666c-428c-9add-b2ea35805738)
-<<<<<<< Updated upstream
-![Screenshot 2024-12-22 162643](https://github.com/user-attachments/assets/8b0de45f-1170-4578-957a-dbaf343bc958)
+![Screenshot 2024-12-22 162608](https://github.com/user-attachments/assets/51be92ba-666c-428c-9add-b2ea35805738)]
 
 
 title: Movie Genre Classification
@@ -43,5 +41,3 @@ app_file: app.py
 pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-=======
-![Screenshot 2024-12-22 162643](https://github.com/user-attachments/assets/8b0de45f-1170-4578-957a-dbaf343bc958)
