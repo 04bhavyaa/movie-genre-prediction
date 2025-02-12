@@ -34,6 +34,9 @@ Directory structure:
 
 ### App Gallery:
 ![Screenshot 2024-12-22 162608](https://github.com/user-attachments/assets/51be92ba-666c-428c-9add-b2ea35805738)
+![image](https://github.com/user-attachments/assets/d8a5dbad-de13-4a0b-9275-f938653a7af6)
+![image](https://github.com/user-attachments/assets/9e8a5cac-ae50-4fb8-a401-4e919185f1f5)
+
 
 title: Movie Genre Classification
 emoji: 🌖
