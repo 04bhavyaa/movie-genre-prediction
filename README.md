@@ -32,5 +32,17 @@ Directory structure:
 - Preprocessing steps like lemmatization and scaling were essential for handling text data.
 
 ### App Gallery:
-
 ![Screenshot 2024-12-22 162608](https://github.com/user-attachments/assets/51be92ba-666c-428c-9add-b2ea35805738)
+
+
+title: Movie Genre Classification
+emoji: 🌖
+colorFrom: purple
+colorTo: yellow
+sdk: streamlit
+sdk_version: 1.42.0
+app_file: app.py
+pinned: false
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
