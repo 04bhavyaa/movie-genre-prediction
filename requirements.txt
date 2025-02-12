@@ -5,7 +5,8 @@ seaborn
 scikit-learn
 wordcloud
 flask
-dvc_s3
+dvc[s3]
+fsspec==2022.11.0
 pandas
 numpy
 python-dotenv
