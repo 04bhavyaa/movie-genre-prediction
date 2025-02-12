@@ -1,6 +1,7 @@
 ## Movie Genre Prediction
 
 This project aims to predict the genre of a movie based on its plot summary. Leveraging Natural Language Processing (NLP) and machine learning techniques, the system processes textual data and applies various models to achieve accurate predictions.
+Hugging Space Link: https://huggingface.co/spaces/04bhavyaa/movie-genre-classificationn
 
 ### Directory Structure:
 
