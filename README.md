@@ -33,8 +33,8 @@ Directory structure:
 - Preprocessing steps like lemmatization and scaling were essential for handling text data.
 
 ### App Gallery:
-![Screenshot 2024-12-22 162608](https://github.com/user-attachments/assets/51be92ba-666c-428c-9add-b2ea35805738)
-![image](https://github.com/user-attachments/assets/d8a5dbad-de13-4a0b-9275-f938653a7af6)
+![Screenshot 2024-12-22 162608](https://github.com/user-attachments/assets/51be92ba-666c-428c-9add-b2ea35805738).
+![image](https://github.com/user-attachments/assets/d5d44abb-91a5-48c8-a08b-a5ed648cc353)
 ![image](https://github.com/user-attachments/assets/9e8a5cac-ae50-4fb8-a401-4e919185f1f5)
 
 
