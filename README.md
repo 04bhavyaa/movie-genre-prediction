@@ -34,7 +34,6 @@ Directory structure:
 ### App Gallery:
 ![Screenshot 2024-12-22 162608](https://github.com/user-attachments/assets/51be92ba-666c-428c-9add-b2ea35805738)
 
-
 title: Movie Genre Classification
 emoji: 🌖
 colorFrom: purple
